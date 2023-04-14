@@ -12,7 +12,7 @@ Before using this project, make sure you have Node.js installed on your computer
 4. Run the command `npm run dev` to start the development server
 5. Run the command `npm run watch:css` to compile the CSS files using TailwindCSS
 
-The project will be launched at `http://localhost:3000`.
+The project will be launched at `http://localhost:5174/`.
 
 ## Technologies Used
 
